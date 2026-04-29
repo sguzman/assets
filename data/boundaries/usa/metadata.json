@@ -1,0 +1,21 @@
+{
+  "id": "data-bound-usa-adm0",
+  "name": "United States ADM0 Boundaries",
+  "slug": "usa-adm0-boundaries",
+  "type": "geospatial",
+  "category": "boundaries",
+  "subcategory": "usa",
+  "source": "geoBoundaries.org",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "year": "2023",
+  "level": "ADM0",
+  "iso": "USA",
+  "version": "6.0",
+  "description": "Comprehensive political administrative boundary (ADM0) for the United States, including mainland, Alaska, Hawaii, and territories. Provided in multiple formats including Shapefile, GeoJSON, and TopoJSON.",
+  "tags": ["usa", "boundaries", "adm0", "geospatial", "gis", "mapping"],
+  "files": {
+    "main": "usa_adm0_boundaries.zip",
+    "metadata": "metadata.json",
+    "source_url": "https://www.geoboundaries.org/boundaries/USA-ADM0-all.zip"
+  }
+}

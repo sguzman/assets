@@ -1,0 +1,29 @@
+{
+  "id": "law-001",
+  "title": "Courthouse Building Illustration",
+  "slug": "courthouse-building-illustration",
+  "category": "law",
+  "subcategory": "institutions",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A symmetrical illustration of a classical courthouse building with columns and a pediment featuring the scales of justice symbol.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Institutional Symbol", "Authority", "Legal Setting"],
+  "tags": ["courthouse", "law", "justice", "government", "building", "legal", "columns"],
+  "dominant_colors": ["#003366", "#D3D3D3", "#FFFFFF"],
+  "use_cases": ["Law firm website", "Educational video on the judicial system"],
+  "animation_ideas": ["Building doors opening", "Scales of justice symbol glowing"],
+  "files": {
+    "image": "courthouse_building_illustration.png",
+    "metadata": "courthouse_building_illustration.json",
+    "prompt": "Flat vector illustration of a classical courthouse building, thick outlines, symmetrical."
+  }
+}

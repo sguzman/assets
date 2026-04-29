@@ -1,0 +1,29 @@
+{
+  "id": "law-004",
+  "title": "Legal Contract with Seal and Pen",
+  "slug": "legal-contract-with-seal-and-pen",
+  "category": "law",
+  "subcategory": "documents",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A signed legal contract with a blue wax seal and a luxury fountain pen. A scales of justice icon appears in the header.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Agreement Symbol", "Binding Commitment"],
+  "tags": ["contract", "legal", "agreement", "seal", "pen", "signature", "law"],
+  "dominant_colors": ["#003366", "#FFFFFF", "#FFD700", "#2E8B57"],
+  "use_cases": ["Business legal guide", "Contract law tutorial"],
+  "animation_ideas": ["Pen writing signature", "Wax seal glowing", "Contract being stamped"],
+  "files": {
+    "image": "legal_contract_with_seal_and_pen.png",
+    "metadata": "legal_contract_with_seal_and_pen.json",
+    "prompt": "Flat vector illustration of a legal contract with a seal and pen, thick outlines."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "law-006",
+  "title": "Legal Verdict Document with Checkmark",
+  "slug": "legal-verdict-document-with-checkmark",
+  "category": "law",
+  "subcategory": "documents",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A formal document labeled 'VERDICT' with a circular scales of justice seal and a large green checkmark.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Final Decision", "Positive Resolution"],
+  "tags": ["verdict", "law", "legal", "judgment", "court", "compliance"],
+  "dominant_colors": ["#003366", "#FFFFFF", "#32CD32"],
+  "use_cases": ["Case study walkthrough", "Success story in legal matters"],
+  "animation_ideas": ["Checkmark popping onto screen", "Seal rotating slightly"],
+  "files": {
+    "image": "legal_verdict_document_with_checkmark.png",
+    "metadata": "legal_verdict_document_with_checkmark.json",
+    "prompt": "Flat vector illustration of a legal verdict document, thick outlines, green checkmark."
+  }
+}

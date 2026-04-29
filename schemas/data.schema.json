@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Data Asset Metadata Schema",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "slug",
+    "type",
+    "category",
+    "source",
+    "license",
+    "year",
+    "version",
+    "description",
+    "files"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "slug": { "type": "string" },
+    "type": { "type": "string" },
+    "category": { "type": "string" },
+    "subcategory": { "type": "string" },
+    "source": { "type": "string" },
+    "license": { "type": "string" },
+    "year": { "type": "string" },
+    "level": { "type": "string" },
+    "iso": { "type": "string" },
+    "version": { "type": "string" },
+    "description": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "files": {
+      "type": "object",
+      "required": ["main", "metadata"],
+      "properties": {
+        "main": { "type": "string" },
+        "metadata": { "type": "string" },
+        "source_url": { "type": "string" }
+      }
+    }
+  }
+}

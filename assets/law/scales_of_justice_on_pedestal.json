@@ -1,0 +1,29 @@
+{
+  "id": "law-002",
+  "title": "Scales of Justice on Pedestal",
+  "slug": "scales-of-justice-on-pedestal",
+  "category": "law",
+  "subcategory": "symbols",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A silver scales of justice balanced on a tiered pedestal. A circular emblem of the scales is also featured on the base.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Primary Subject", "Symbol of Fairness"],
+  "tags": ["justice", "law", "scales", "balance", "legal", "symbol"],
+  "dominant_colors": ["#003366", "#E5E4E2", "#FFFFFF"],
+  "use_cases": ["Legal blog post", "Presentation on civil rights"],
+  "animation_ideas": ["Scales tipping slightly", "Circular emblem rotating"],
+  "files": {
+    "image": "scales_of_justice_on_pedestal.png",
+    "metadata": "scales_of_justice_on_pedestal.json",
+    "prompt": "Flat vector illustration of the scales of justice on a pedestal, thick outlines, silver finish."
+  }
+}

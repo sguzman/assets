@@ -1,0 +1,29 @@
+{
+  "id": "law-005",
+  "title": "Law Book with Protection Shield",
+  "slug": "law-book-with-protection-shield",
+  "category": "law",
+  "subcategory": "documents",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A thick white book labeled 'LAW' with a blue shield and a white checkmark, symbolizing legal protection and compliance.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Protection Symbol", "Compliance Indicator"],
+  "tags": ["law", "protection", "shield", "compliance", "legal", "security"],
+  "dominant_colors": ["#003366", "#FFFFFF", "#4682B4"],
+  "use_cases": ["Data privacy video", "Consumer rights explainer"],
+  "animation_ideas": ["Shield appearing in front of book", "Checkmark pulsing"],
+  "files": {
+    "image": "law_book_with_protection_shield.png",
+    "metadata": "law_book_with_protection_shield.json",
+    "prompt": "Flat vector illustration of a law book with a shield, thick outlines, blue and white."
+  }
+}

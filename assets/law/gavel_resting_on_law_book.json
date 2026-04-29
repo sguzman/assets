@@ -1,0 +1,29 @@
+{
+  "id": "law-003",
+  "title": "Gavel Resting on Law Book",
+  "slug": "gavel-resting-on-law-book",
+  "category": "law",
+  "subcategory": "tools",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A wooden gavel resting on its sound block atop a thick blue book labeled 'LAW'.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "isometric"
+  },
+  "semantic_role": ["Decision Symbol", "Authority", "Regulation"],
+  "tags": ["gavel", "law book", "judge", "court", "ruling", "legal"],
+  "dominant_colors": ["#003366", "#8B4513", "#FFFFFF", "#2E8B57"],
+  "use_cases": ["Legal news segment", "Video about court procedures"],
+  "animation_ideas": ["Gavel striking the sound block", "Book pages fluttering"],
+  "files": {
+    "image": "gavel_resting_on_law_book.png",
+    "metadata": "gavel_resting_on_law_book.json",
+    "prompt": "Flat vector illustration of a gavel on a law book, thick outlines, professional colors."
+  }
+}
