@@ -1,0 +1,315 @@
+[
+  {
+    "id": "economics.money.banknote.single",
+    "title": "Single Banknote",
+    "file": "stylized_dollar_bill_vector_icon.png",
+    "category": "economics",
+    "subcategory": "money",
+    "type": "object",
+    "format": "png",
+    "style": "flat vector-like illustration",
+    "description": "A single stylized green banknote with a central dollar sign medallion, side dots, bold outline, and subtle ground shadow.",
+    "subject": "cash bill",
+    "background": "white",
+    "orientation": "horizontal",
+    "dominant_colors": [
+      "light green",
+      "medium green",
+      "dark green",
+      "dark navy"
+    ],
+    "tags": [
+      "money",
+      "cash",
+      "banknote",
+      "currency",
+      "finance",
+      "economics",
+      "payment",
+      "wealth"
+    ],
+    "visual_features": [
+      "rounded rectangle body",
+      "central circular medallion",
+      "dollar sign",
+      "decorative border",
+      "minimal flat shading",
+      "bold outline"
+    ],
+    "use_cases": [
+      "taxes",
+      "payments",
+      "income",
+      "cash flow",
+      "budget",
+      "general finance explainer visuals"
+    ],
+    "animation_ideas": [
+      "float in",
+      "bounce",
+      "pulse outline",
+      "duplicate into a stream of bills",
+      "slide across screen",
+      "rotate slightly for emphasis"
+    ]
+  },
+  {
+    "id": "economics.money.wallet.cash",
+    "title": "Wallet With Cash",
+    "file": "wallet_with_cash_icon_illustration.png",
+    "category": "economics",
+    "subcategory": "money",
+    "type": "object",
+    "format": "png",
+    "style": "flat vector-like illustration",
+    "description": "A brown wallet with visible stitched edges, a snap closure, and green banknotes sticking out from the top.",
+    "subject": "wallet holding cash",
+    "background": "white",
+    "orientation": "front-facing",
+    "dominant_colors": [
+      "brown",
+      "tan",
+      "green",
+      "dark navy",
+      "gold"
+    ],
+    "tags": [
+      "wallet",
+      "cash",
+      "personal finance",
+      "payment",
+      "consumer",
+      "money storage",
+      "expenses"
+    ],
+    "visual_features": [
+      "stitched leather look",
+      "cash bills protruding",
+      "snap button",
+      "bold outline",
+      "soft shadow"
+    ],
+    "use_cases": [
+      "consumer spending",
+      "household finance",
+      "personal budget",
+      "daily expenses",
+      "cash on hand"
+    ],
+    "animation_ideas": [
+      "wallet open/close",
+      "cash rise up",
+      "button click",
+      "shake to indicate spending",
+      "pop-in reveal"
+    ]
+  },
+  {
+    "id": "economics.money.piggybank.savings",
+    "title": "Piggy Bank With Coin",
+    "file": "cute_piggy_bank_with_a_coin.png",
+    "category": "economics",
+    "subcategory": "money",
+    "type": "object",
+    "format": "png",
+    "style": "flat cartoon illustration",
+    "description": "A pink piggy bank with a gold coin inserted at the top, rendered in a simple rounded style with highlight and shadow.",
+    "subject": "savings piggy bank",
+    "background": "white",
+    "orientation": "side view",
+    "dominant_colors": [
+      "pink",
+      "light pink",
+      "gold",
+      "dark navy"
+    ],
+    "tags": [
+      "piggy bank",
+      "savings",
+      "saving money",
+      "personal finance",
+      "budgeting",
+      "financial literacy"
+    ],
+    "visual_features": [
+      "rounded pig silhouette",
+      "coin slot",
+      "coin with dollar sign",
+      "minimal facial features",
+      "gloss highlight",
+      "soft shadow"
+    ],
+    "use_cases": [
+      "saving",
+      "frugality",
+      "household budgeting",
+      "children's finance education",
+      "rainy day fund"
+    ],
+    "animation_ideas": [
+      "coin drop into slot",
+      "body bounce",
+      "tail wiggle",
+      "small shake on impact",
+      "coin sparkle"
+    ]
+  },
+  {
+    "id": "economics.money.moneybag.sack",
+    "title": "Money Bag",
+    "file": "golden_money_bag_icon_illustration.png",
+    "category": "economics",
+    "subcategory": "money",
+    "type": "object",
+    "format": "png",
+    "style": "flat vector-like illustration",
+    "description": "A golden money sack tied at the top with a rope and marked by a large dollar sign on the front.",
+    "subject": "money bag",
+    "background": "white",
+    "orientation": "front-facing",
+    "dominant_colors": [
+      "gold",
+      "yellow",
+      "tan",
+      "brown",
+      "dark navy"
+    ],
+    "tags": [
+      "money bag",
+      "wealth",
+      "profits",
+      "funding",
+      "treasury",
+      "finance",
+      "capital"
+    ],
+    "visual_features": [
+      "bulging sack shape",
+      "rope tie",
+      "large dollar sign",
+      "flat shading",
+      "bold outline",
+      "soft shadow"
+    ],
+    "use_cases": [
+      "profits",
+      "treasury",
+      "business earnings",
+      "funding pool",
+      "capital reserves",
+      "tax revenue"
+    ],
+    "animation_ideas": [
+      "drop onto ground",
+      "inflate slightly",
+      "rope sway",
+      "wobble on landing",
+      "scale pulse for emphasis"
+    ]
+  },
+  {
+    "id": "economics.money.coins.stack",
+    "title": "Coin Stack",
+    "file": "gold_coin_stack_with_dollar_sign.png",
+    "category": "economics",
+    "subcategory": "money",
+    "type": "object",
+    "format": "png",
+    "style": "flat vector-like illustration",
+    "description": "A stack of gold coins with one front-facing coin displaying a dollar sign.",
+    "subject": "stacked coins",
+    "background": "white",
+    "orientation": "three-quarter/front",
+    "dominant_colors": [
+      "gold",
+      "yellow",
+      "orange-gold",
+      "dark navy",
+      "brown"
+    ],
+    "tags": [
+      "coins",
+      "money",
+      "wealth",
+      "savings",
+      "revenue",
+      "finance",
+      "capital"
+    ],
+    "visual_features": [
+      "multiple stacked coin discs",
+      "front coin with dollar sign",
+      "reeded edges",
+      "bold outline",
+      "subtle shadow"
+    ],
+    "use_cases": [
+      "revenue",
+      "wealth accumulation",
+      "savings",
+      "interest",
+      "financial growth",
+      "cost comparisons"
+    ],
+    "animation_ideas": [
+      "coins stacking upward",
+      "coin spin",
+      "shine sweep",
+      "small bounce",
+      "count-up effect"
+    ]
+  },
+  {
+    "id": "economics.money.cash.bundle",
+    "title": "Cash Bundle",
+    "file": "stack_of_money_with_a_strap.png",
+    "category": "economics",
+    "subcategory": "money",
+    "type": "object",
+    "format": "png",
+    "style": "flat vector-like illustration",
+    "description": "A strapped bundle of stacked banknotes shown in slight perspective with a money band and dollar symbol.",
+    "subject": "bundle of cash",
+    "background": "white",
+    "orientation": "isometric-like",
+    "dominant_colors": [
+      "light green",
+      "medium green",
+      "dark green",
+      "cream",
+      "dark navy"
+    ],
+    "tags": [
+      "cash bundle",
+      "money stack",
+      "currency",
+      "finance",
+      "payment",
+      "income",
+      "liquidity"
+    ],
+    "visual_features": [
+      "stacked bills",
+      "money strap",
+      "top face details",
+      "dollar emblem",
+      "thick outline",
+      "soft shadow"
+    ],
+    "use_cases": [
+      "cash reserves",
+      "income",
+      "liquidity",
+      "payments",
+      "large sums of money",
+      "budget allocations"
+    ],
+    "animation_ideas": [
+      "slide in",
+      "stack multiply",
+      "strap tighten",
+      "cash count effect",
+      "tilt forward for emphasis"
+    ]
+  }
+]
