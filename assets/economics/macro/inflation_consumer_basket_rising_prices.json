@@ -1,0 +1,29 @@
+{
+  "id": "econ-014",
+  "title": "Inflation and Rising Consumer Prices",
+  "slug": "inflation-consumer-basket-rising-prices",
+  "category": "economics",
+  "subcategory": "macro",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A red shopping basket full of groceries (milk, bread, fruit) with a large red zigzag arrow pointing upwards and a dollar sign price tag.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Inflation Symbol", "Cost of Living", "Purchasing Power"],
+  "tags": ["inflation", "consumer prices", "groceries", "economy", "rising costs", "basket"],
+  "dominant_colors": ["#FF0000", "#003366", "#FFFFFF"],
+  "use_cases": ["News report on CPI", "Financial planning video", "Economic policy discussion"],
+  "animation_ideas": ["Arrow growing upwards", "Price tag spinning", "Basket handle moving"],
+  "files": {
+    "image": "inflation_consumer_basket_rising_prices.png",
+    "metadata": "inflation_consumer_basket_rising_prices.json",
+    "prompt": "Flat vector illustration of a shopping basket and a rising arrow, representing inflation."
+  }
+}

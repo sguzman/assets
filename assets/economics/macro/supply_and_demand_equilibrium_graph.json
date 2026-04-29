@@ -1,0 +1,29 @@
+{
+  "id": "econ-013",
+  "title": "Supply and Demand Equilibrium Graph",
+  "slug": "supply-and-demand-equilibrium-graph",
+  "category": "economics",
+  "subcategory": "macro",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A classic economic graph showing the intersection of supply (green) and demand (blue) curves, with the equilibrium point highlighted by a yellow dot.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Core Concept", "Market Balance", "Price Determination"],
+  "tags": ["supply", "demand", "equilibrium", "economics", "graph", "market", "price"],
+  "dominant_colors": ["#003366", "#32CD32", "#FFFFFF", "#FFD700"],
+  "use_cases": ["Introductory economics course", "Market analysis presentation"],
+  "animation_ideas": ["Curves shifting left and right", "Equilibrium point moving along the curves", "Dotted projection lines appearing"],
+  "files": {
+    "image": "supply_and_demand_equilibrium_graph.png",
+    "metadata": "supply_and_demand_equilibrium_graph.json",
+    "prompt": "Flat vector illustration of a supply and demand graph, thick outlines."
+  }
+}

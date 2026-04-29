@@ -1,0 +1,29 @@
+{
+  "id": "econ-017",
+  "title": "Global Trade and Logistics",
+  "slug": "global-trade-cargo-ship-logistics",
+  "category": "economics",
+  "subcategory": "macro",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A large cargo ship loaded with colorful containers in front of a blue globe, with two circular arrows (blue and green) symbolizing import and export.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["International Trade", "Supply Chain", "Globalization"],
+  "tags": ["global trade", "cargo ship", "import", "export", "logistics", "globalization", "containers"],
+  "dominant_colors": ["#003366", "#32CD32", "#FFFFFF", "#FFA500"],
+  "use_cases": ["International business lecture", "Supply chain management explainer", "Trade agreement overview"],
+  "animation_ideas": ["Ship moving across the waves", "Arrows rotating around the globe", "Globe spinning slowly"],
+  "files": {
+    "image": "global_trade_cargo_ship_logistics.png",
+    "metadata": "global_trade_cargo_ship_logistics.json",
+    "prompt": "Flat vector illustration of a cargo ship and a globe, representing global trade."
+  }
+}

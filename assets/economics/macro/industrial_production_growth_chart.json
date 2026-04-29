@@ -1,0 +1,29 @@
+{
+  "id": "econ-015",
+  "title": "Industrial Production and Economic Growth",
+  "slug": "industrial_production-growth-chart",
+  "category": "economics",
+  "subcategory": "macro",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A blue factory with smoking chimneys and a city skyline in the background, overlaid with an upward green arrow and a bar chart.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Growth Symbol", "Industrial Capacity", "GDP Increase"],
+  "tags": ["growth", "industry", "factory", "economy", "gdp", "production"],
+  "dominant_colors": ["#003366", "#32CD32", "#FFA500", "#FFFFFF"],
+  "use_cases": ["Quarterly growth report", "Infrastructure development presentation", "Economic boom visualization"],
+  "animation_ideas": ["Smoke rising from chimneys", "Bars in chart rising sequentially", "Arrow extending"],
+  "files": {
+    "image": "industrial_production_growth_chart.png",
+    "metadata": "industrial_production_growth_chart.json",
+    "prompt": "Flat vector illustration of a factory and a growth chart, economic expansion."
+  }
+}

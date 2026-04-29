@@ -1,0 +1,29 @@
+{
+  "id": "econ-018",
+  "title": "Market Competition and Rivalry",
+  "slug": "market-competition-rival-storefronts",
+  "category": "economics",
+  "subcategory": "macro",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "Two identical storefront buildings, one blue and one red, with arrows pointing towards each other and a 'clash' symbol in the center.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Competitive Market", "Business Rivalry", "Consumer Choice"],
+  "tags": ["competition", "market", "business", "rivalry", "stores", "economy"],
+  "dominant_colors": ["#003366", "#FF0000", "#FFFFFF"],
+  "use_cases": ["Business strategy guide", "Economics of competition video", "Marketing case study"],
+  "animation_ideas": ["Arrows clashing in the middle", "Store lights flickering on", "Clash symbol pulsing"],
+  "files": {
+    "image": "market_competition_rival_storefronts.png",
+    "metadata": "market_competition_rival_storefronts.json",
+    "prompt": "Flat vector illustration of two stores competing, thick outlines."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "econ-016",
+  "title": "Recession and Economic Downturn",
+  "slug": "recession-downward-trend-cracked-earth",
+  "category": "economics",
+  "subcategory": "macro",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A bar chart with falling grey bars and a downward-pointing red arrow, all resting on a piece of cracked, dry earth.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Downturn Symbol", "Crisis Indicator", "Economic Hardship"],
+  "tags": ["recession", "downturn", "crisis", "economy", "falling market", "crack"],
+  "dominant_colors": ["#FF0000", "#D3D3D3", "#5C4033", "#FFFFFF"],
+  "use_cases": ["Analysis of market crash", "Historical documentary on depressions", "Risk management training"],
+  "animation_ideas": ["Cracks spreading across the ground", "Bars falling one by one", "Arrow shaking and pointing down"],
+  "files": {
+    "image": "recession_downward_trend_cracked_earth.png",
+    "metadata": "recession_downward_trend_cracked_earth.json",
+    "prompt": "Flat vector illustration of a falling chart on cracked earth, economic recession."
+  }
+}
