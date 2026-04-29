@@ -1,0 +1,52 @@
+{
+  "id": "economics.money.coins.stack",
+  "title": "Coin Stack",
+  "file": "gold_coin_stack_with_dollar_sign.png",
+  "category": "economics",
+  "subcategory": "money",
+  "type": "object",
+  "format": "png",
+  "style": "flat vector-like illustration",
+  "description": "A stack of gold coins with one front-facing coin displaying a dollar sign.",
+  "subject": "stacked coins",
+  "background": "white",
+  "orientation": "three-quarter/front",
+  "dominant_colors": [
+    "gold",
+    "yellow",
+    "orange-gold",
+    "dark navy",
+    "brown"
+  ],
+  "tags": [
+    "coins",
+    "money",
+    "wealth",
+    "savings",
+    "revenue",
+    "finance",
+    "capital"
+  ],
+  "visual_features": [
+    "multiple stacked coin discs",
+    "front coin with dollar sign",
+    "reeded edges",
+    "bold outline",
+    "subtle shadow"
+  ],
+  "use_cases": [
+    "revenue",
+    "wealth accumulation",
+    "savings",
+    "interest",
+    "financial growth",
+    "cost comparisons"
+  ],
+  "animation_ideas": [
+    "coins stacking upward",
+    "coin spin",
+    "shine sweep",
+    "small bounce",
+    "count-up effect"
+  ]
+}

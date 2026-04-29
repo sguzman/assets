@@ -1,0 +1,50 @@
+{
+  "id": "economics.money.piggybank.savings",
+  "title": "Piggy Bank With Coin",
+  "file": "cute_piggy_bank_with_a_coin.png",
+  "category": "economics",
+  "subcategory": "money",
+  "type": "object",
+  "format": "png",
+  "style": "flat cartoon illustration",
+  "description": "A pink piggy bank with a gold coin inserted at the top, rendered in a simple rounded style with highlight and shadow.",
+  "subject": "savings piggy bank",
+  "background": "white",
+  "orientation": "side view",
+  "dominant_colors": [
+    "pink",
+    "light pink",
+    "gold",
+    "dark navy"
+  ],
+  "tags": [
+    "piggy bank",
+    "savings",
+    "saving money",
+    "personal finance",
+    "budgeting",
+    "financial literacy"
+  ],
+  "visual_features": [
+    "rounded pig silhouette",
+    "coin slot",
+    "coin with dollar sign",
+    "minimal facial features",
+    "gloss highlight",
+    "soft shadow"
+  ],
+  "use_cases": [
+    "saving",
+    "frugality",
+    "household budgeting",
+    "children's finance education",
+    "rainy day fund"
+  ],
+  "animation_ideas": [
+    "coin drop into slot",
+    "body bounce",
+    "tail wiggle",
+    "small shake on impact",
+    "coin sparkle"
+  ]
+}

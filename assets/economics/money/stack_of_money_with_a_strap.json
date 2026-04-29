@@ -1,0 +1,53 @@
+{
+  "id": "economics.money.cash.bundle",
+  "title": "Cash Bundle",
+  "file": "stack_of_money_with_a_strap.png",
+  "category": "economics",
+  "subcategory": "money",
+  "type": "object",
+  "format": "png",
+  "style": "flat vector-like illustration",
+  "description": "A strapped bundle of stacked banknotes shown in slight perspective with a money band and dollar symbol.",
+  "subject": "bundle of cash",
+  "background": "white",
+  "orientation": "isometric-like",
+  "dominant_colors": [
+    "light green",
+    "medium green",
+    "dark green",
+    "cream",
+    "dark navy"
+  ],
+  "tags": [
+    "cash bundle",
+    "money stack",
+    "currency",
+    "finance",
+    "payment",
+    "income",
+    "liquidity"
+  ],
+  "visual_features": [
+    "stacked bills",
+    "money strap",
+    "top face details",
+    "dollar emblem",
+    "thick outline",
+    "soft shadow"
+  ],
+  "use_cases": [
+    "cash reserves",
+    "income",
+    "liquidity",
+    "payments",
+    "large sums of money",
+    "budget allocations"
+  ],
+  "animation_ideas": [
+    "slide in",
+    "stack multiply",
+    "strap tighten",
+    "cash count effect",
+    "tilt forward for emphasis"
+  ]
+}
