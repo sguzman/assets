@@ -1,0 +1,29 @@
+{
+  "id": "law-010",
+  "title": "Judge's Bench with Gavel",
+  "slug": "judges-bench-with-gavel",
+  "category": "law",
+  "subcategory": "institutions",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A dark wood judge's bench featuring a high-back leather chair, a gavel on its sound block, and a circular scales of justice emblem.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Authority Seat", "Judgment Setting", "Courtroom"],
+  "tags": ["judge", "bench", "courtroom", "gavel", "law", "justice", "bench"],
+  "dominant_colors": ["#5C4033", "#003366", "#FFFFFF"],
+  "use_cases": ["Mock trial video", "Educational content about the judiciary", "Legal drama background"],
+  "animation_ideas": ["Gavel striking the block", "Chair swiveling slightly", "Light shining on the emblem"],
+  "files": {
+    "image": "judges_bench_with_gavel.png",
+    "metadata": "judges_bench_with_gavel.json",
+    "prompt": "Flat vector illustration of a judge's bench with a gavel and chair."
+  }
+}

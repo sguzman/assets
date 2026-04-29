@@ -1,0 +1,29 @@
+{
+  "id": "law-007",
+  "title": "Lady Justice Statue Illustration",
+  "slug": "lady-justice-statue-illustration",
+  "category": "law",
+  "subcategory": "symbols",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A full-body illustration of Lady Justice (Themis/Justitia), blindfolded, holding the scales of justice in one hand and a sword in the other.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Primary Symbol", "Moral Authority", "Impartiality"],
+  "tags": ["lady justice", "themis", "justitia", "law", "justice", "scales", "sword", "statue"],
+  "dominant_colors": ["#003366", "#FFFFFF", "#E5E4E2"],
+  "use_cases": ["Law school recruitment", "Human rights documentary"],
+  "animation_ideas": ["Scales shifting", "Blindfold being lifted slightly", "Sword gleaming"],
+  "files": {
+    "image": "lady_justice_statue_illustration.png",
+    "metadata": "lady_justice_statue_illustration.json",
+    "prompt": "Flat vector illustration of a Lady Justice statue, blindfolded, holding scales and a sword."
+  }
+}

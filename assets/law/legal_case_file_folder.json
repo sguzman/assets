@@ -1,0 +1,29 @@
+{
+  "id": "law-009",
+  "title": "Legal Case File Folder",
+  "slug": "legal-case-file-folder",
+  "category": "law",
+  "subcategory": "documents",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A blue document folder with a circular scales of justice icon, filled with legal papers.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Case Management", "Evidence", "Legal Records"],
+  "tags": ["folder", "documents", "legal case", "files", "law", "paperwork"],
+  "dominant_colors": ["#003366", "#4682B4", "#FFFFFF"],
+  "use_cases": ["Legal software demo", "Attorney case file visualization"],
+  "animation_ideas": ["Papers sliding into folder", "Folder opening to reveal contents", "Scales icon pulsing"],
+  "files": {
+    "image": "legal_case_file_folder.png",
+    "metadata": "legal_case_file_folder.json",
+    "prompt": "Flat vector illustration of a blue legal file folder with a scales icon."
+  }
+}

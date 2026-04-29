@@ -1,0 +1,29 @@
+{
+  "id": "law-008",
+  "title": "Handcuffs Locked Illustration",
+  "slug": "handcuffs-locked-illustration",
+  "category": "law",
+  "subcategory": "criminal justice",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A pair of locked silver metal handcuffs, connected by a short chain.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Arrest Symbol", "Criminal Law", "Detention"],
+  "tags": ["handcuffs", "arrest", "police", "crime", "law enforcement", "jail"],
+  "dominant_colors": ["#003366", "#D3D3D3", "#FFFFFF"],
+  "use_cases": ["Crime news", "Criminal defense lawyer website", "Police procedure video"],
+  "animation_ideas": ["Handcuffs clicking shut", "Key turning in the lock", "Chain rattling"],
+  "files": {
+    "image": "handcuffs_locked_illustration.png",
+    "metadata": "handcuffs_locked_illustration.json",
+    "prompt": "Flat vector illustration of a pair of locked handcuffs, silver color."
+  }
+}

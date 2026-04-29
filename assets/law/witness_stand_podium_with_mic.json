@@ -1,0 +1,29 @@
+{
+  "id": "law-011",
+  "title": "Witness Stand Podium with Mic",
+  "slug": "witness-stand-podium-with-mic",
+  "category": "law",
+  "subcategory": "institutions",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A wooden witness stand or lectern with a microphone and a circular scales of justice emblem on the front.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Testimony", "Public Speaking", "Evidence Presentation"],
+  "tags": ["podium", "witness stand", "microphone", "court", "testimony", "legal"],
+  "dominant_colors": ["#5C4033", "#003366", "#FFFFFF"],
+  "use_cases": ["Trial procedure video", "Legal presentation slide", "Witness testimony visualization"],
+  "animation_ideas": ["Microphone being adjusted", "Light illuminating the podium", "Scales icon glowing"],
+  "files": {
+    "image": "witness_stand_podium_with_mic.png",
+    "metadata": "witness_stand_podium_with_mic.json",
+    "prompt": "Flat vector illustration of a courtroom witness stand with a microphone."
+  }
+}

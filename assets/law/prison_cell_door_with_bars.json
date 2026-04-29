@@ -1,0 +1,29 @@
+{
+  "id": "law-012",
+  "title": "Prison Cell Door with Bars",
+  "slug": "prison-cell-door-with-bars",
+  "category": "law",
+  "subcategory": "criminal justice",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A grey metal prison cell door with vertical bars and a blue padlock securing the latch.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Incarceration", "Justice Consequences", "Detention"],
+  "tags": ["prison", "jail", "cell", "bars", "punishment", "incarceration", "lock"],
+  "dominant_colors": ["#D3D3D3", "#003366", "#FFFFFF"],
+  "use_cases": ["Crime documentary", "Prison reform article", "Legal ethics presentation"],
+  "animation_ideas": ["Door slamming shut", "Padlock clicking open", "Keys rattling"],
+  "files": {
+    "image": "prison_cell_door_with_bars.png",
+    "metadata": "prison_cell_door_with_bars.json",
+    "prompt": "Flat vector illustration of a prison cell door with bars and a padlock."
+  }
+}
