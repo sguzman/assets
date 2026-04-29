@@ -1,22 +1,25 @@
 {
   "id": "economics.money.coins.stack",
   "title": "Coin Stack",
-  "file": "gold_coin_stack_with_dollar_sign.png",
+  "slug": "coin-stack",
   "category": "economics",
   "subcategory": "money",
   "type": "object",
   "format": "png",
-  "style": "flat vector-like illustration",
+  "status": "usable",
+  "version": "1.0.0",
   "description": "A stack of gold coins with one front-facing coin displaying a dollar sign.",
-  "subject": "stacked coins",
-  "background": "white",
-  "orientation": "three-quarter/front",
-  "dominant_colors": [
-    "gold",
-    "yellow",
-    "orange-gold",
-    "dark navy",
-    "brown"
+  "visual_style": {
+    "medium": "flat vector-like illustration",
+    "line_style": "bold outline",
+    "shading": "subtle shadow",
+    "background": "white",
+    "perspective": "three-quarter/front"
+  },
+  "semantic_role": [
+    "revenue",
+    "wealth accumulation",
+    "savings"
   ],
   "tags": [
     "coins",
@@ -27,12 +30,12 @@
     "finance",
     "capital"
   ],
-  "visual_features": [
-    "multiple stacked coin discs",
-    "front coin with dollar sign",
-    "reeded edges",
-    "bold outline",
-    "subtle shadow"
+  "dominant_colors": [
+    "gold",
+    "yellow",
+    "orange-gold",
+    "dark navy",
+    "brown"
   ],
   "use_cases": [
     "revenue",
@@ -48,5 +51,10 @@
     "shine sweep",
     "small bounce",
     "count-up effect"
-  ]
+  ],
+  "files": {
+    "image": "gold_coin_stack_with_dollar_sign.png",
+    "metadata": "gold_coin_stack_with_dollar_sign.json",
+    "prompt": "Generated via project.md instructions"
+  }
 }

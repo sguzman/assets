@@ -1,22 +1,25 @@
 {
   "id": "economics.money.wallet.cash",
   "title": "Wallet With Cash",
-  "file": "wallet_with_cash_icon_illustration.png",
+  "slug": "wallet-with-cash",
   "category": "economics",
   "subcategory": "money",
   "type": "object",
   "format": "png",
-  "style": "flat vector-like illustration",
+  "status": "usable",
+  "version": "1.0.0",
   "description": "A brown wallet with visible stitched edges, a snap closure, and green banknotes sticking out from the top.",
-  "subject": "wallet holding cash",
-  "background": "white",
-  "orientation": "front-facing",
-  "dominant_colors": [
-    "brown",
-    "tan",
-    "green",
-    "dark navy",
-    "gold"
+  "visual_style": {
+    "medium": "flat vector-like illustration",
+    "line_style": "bold outline",
+    "shading": "soft shadow",
+    "background": "white",
+    "perspective": "front-facing"
+  },
+  "semantic_role": [
+    "consumer spending",
+    "household finance",
+    "personal budget"
   ],
   "tags": [
     "wallet",
@@ -27,12 +30,12 @@
     "money storage",
     "expenses"
   ],
-  "visual_features": [
-    "stitched leather look",
-    "cash bills protruding",
-    "snap button",
-    "bold outline",
-    "soft shadow"
+  "dominant_colors": [
+    "brown",
+    "tan",
+    "green",
+    "dark navy",
+    "gold"
   ],
   "use_cases": [
     "consumer spending",
@@ -47,5 +50,10 @@
     "button click",
     "shake to indicate spending",
     "pop-in reveal"
-  ]
+  ],
+  "files": {
+    "image": "wallet_with_cash_icon_illustration.png",
+    "metadata": "wallet_with_cash_icon_illustration.json",
+    "prompt": "Generated via project.md instructions"
+  }
 }

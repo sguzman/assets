@@ -1,0 +1,59 @@
+{
+    "id": "economics.money.banknote.single",
+    "title": "Single Banknote",
+    "slug": "banknote-single",
+    "category": "economics",
+    "subcategory": "money",
+    "type": "object",
+    "format": "png",
+    "status": "usable",
+    "version": "1.0.0",
+    "description": "A stylized green banknote with a central dollar sign, bold outline, and soft shadow.",
+    "visual_style": {
+        "medium": "flat vector-like PNG illustration",
+        "line_style": "bold dark outline",
+        "shading": "minimal flat shading",
+        "background": "white",
+        "perspective": "front-facing"
+    },
+    "semantic_role": [
+        "cash",
+        "payment",
+        "liquidity",
+        "income",
+        "money flow"
+    ],
+    "tags": [
+        "money",
+        "cash",
+        "banknote",
+        "currency",
+        "finance",
+        "economics"
+    ],
+    "dominant_colors": [
+        "light green",
+        "medium green",
+        "dark green",
+        "dark navy"
+    ],
+    "use_cases": [
+        "tax explainer",
+        "income scene",
+        "budget breakdown",
+        "cash flow diagram",
+        "finance thumbnail accent"
+    ],
+    "animation_ideas": [
+        "slide across screen",
+        "duplicate into stream of bills",
+        "pulse outline",
+        "float upward",
+        "rotate slightly on entrance"
+    ],
+    "files": {
+        "image": "image.png",
+        "metadata": "metadata.json",
+        "prompt": "prompt.txt"
+    }
+}

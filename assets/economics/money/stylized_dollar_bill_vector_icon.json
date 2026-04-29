@@ -1,21 +1,25 @@
 {
   "id": "economics.money.banknote.single",
   "title": "Single Banknote",
-  "file": "stylized_dollar_bill_vector_icon.png",
+  "slug": "single-banknote",
   "category": "economics",
   "subcategory": "money",
   "type": "object",
   "format": "png",
-  "style": "flat vector-like illustration",
+  "status": "usable",
+  "version": "1.0.0",
   "description": "A single stylized green banknote with a central dollar sign medallion, side dots, bold outline, and subtle ground shadow.",
-  "subject": "cash bill",
-  "background": "white",
-  "orientation": "horizontal",
-  "dominant_colors": [
-    "light green",
-    "medium green",
-    "dark green",
-    "dark navy"
+  "visual_style": {
+    "medium": "flat vector-like illustration",
+    "line_style": "decorative border",
+    "shading": "minimal flat shading",
+    "background": "white",
+    "perspective": "horizontal"
+  },
+  "semantic_role": [
+    "taxes",
+    "payments",
+    "income"
   ],
   "tags": [
     "money",
@@ -27,13 +31,11 @@
     "payment",
     "wealth"
   ],
-  "visual_features": [
-    "rounded rectangle body",
-    "central circular medallion",
-    "dollar sign",
-    "decorative border",
-    "minimal flat shading",
-    "bold outline"
+  "dominant_colors": [
+    "light green",
+    "medium green",
+    "dark green",
+    "dark navy"
   ],
   "use_cases": [
     "taxes",
@@ -50,5 +52,10 @@
     "duplicate into a stream of bills",
     "slide across screen",
     "rotate slightly for emphasis"
-  ]
+  ],
+  "files": {
+    "image": "stylized_dollar_bill_vector_icon.png",
+    "metadata": "stylized_dollar_bill_vector_icon.json",
+    "prompt": "Generated via project.md instructions"
+  }
 }

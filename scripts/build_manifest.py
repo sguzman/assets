@@ -19,9 +19,9 @@ def build_manifest(assets_dir='assets', output_file='metadata_manifest.json'):
                         
                         # Calculate path relative to project root for the asset file
                         # root is something like 'assets/economics/money'
-                        if 'file' in data:
-                            image_path = os.path.join(root, data['file'])
-                            data['relative_path'] = image_path
+                        if 'files' in data and 'image' in data['files']:
+                            image_path = os.path.join(root, data['files']['image'])
+                            data['files']['relative_image_path'] = image_path
                         
                         manifest.append(data)
                 except Exception as e:

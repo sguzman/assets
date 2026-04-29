@@ -1,22 +1,25 @@
 {
   "id": "economics.money.moneybag.sack",
   "title": "Money Bag",
-  "file": "golden_money_bag_icon_illustration.png",
+  "slug": "money-bag",
   "category": "economics",
   "subcategory": "money",
   "type": "object",
   "format": "png",
-  "style": "flat vector-like illustration",
+  "status": "usable",
+  "version": "1.0.0",
   "description": "A golden money sack tied at the top with a rope and marked by a large dollar sign on the front.",
-  "subject": "money bag",
-  "background": "white",
-  "orientation": "front-facing",
-  "dominant_colors": [
-    "gold",
-    "yellow",
-    "tan",
-    "brown",
-    "dark navy"
+  "visual_style": {
+    "medium": "flat vector-like illustration",
+    "line_style": "bold outline",
+    "shading": "flat shading",
+    "background": "white",
+    "perspective": "front-facing"
+  },
+  "semantic_role": [
+    "profits",
+    "treasury",
+    "business earnings"
   ],
   "tags": [
     "money bag",
@@ -27,13 +30,12 @@
     "finance",
     "capital"
   ],
-  "visual_features": [
-    "bulging sack shape",
-    "rope tie",
-    "large dollar sign",
-    "flat shading",
-    "bold outline",
-    "soft shadow"
+  "dominant_colors": [
+    "gold",
+    "yellow",
+    "tan",
+    "brown",
+    "dark navy"
   ],
   "use_cases": [
     "profits",
@@ -49,5 +51,10 @@
     "rope sway",
     "wobble on landing",
     "scale pulse for emphasis"
-  ]
+  ],
+  "files": {
+    "image": "golden_money_bag_icon_illustration.png",
+    "metadata": "golden_money_bag_icon_illustration.json",
+    "prompt": "Generated via project.md instructions"
+  }
 }
