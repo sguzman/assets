@@ -1,0 +1,29 @@
+{
+  "id": "econ-tax-001",
+  "title": "Tax Form on Clipboard",
+  "slug": "tax-form-on-clipboard",
+  "category": "economics",
+  "subcategory": "taxes",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A detailed tax form attached to a dark blue clipboard with a matching pen resting on it. Features fields for taxpayer information and income details.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "top-down"
+  },
+  "semantic_role": ["Primary Subject", "Process Indicator"],
+  "tags": ["tax", "form", "paperwork", "finance", "compliance", "clipboard", "pen"],
+  "dominant_colors": ["#003366", "#FFFFFF", "#B0C4DE"],
+  "use_cases": ["Educational video about filing taxes", "Government service explainer"],
+  "animation_ideas": ["Pen writing signature", "Form sliding onto screen"],
+  "files": {
+    "image": "tax_form_on_clipboard.png",
+    "metadata": "tax_form_on_clipboard.json",
+    "prompt": "Flat vector illustration of a tax form on a clipboard with a pen, thick outlines, professional style."
+  }
+}

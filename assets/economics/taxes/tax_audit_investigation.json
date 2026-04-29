@@ -1,0 +1,29 @@
+{
+  "id": "econ-tax-006",
+  "title": "Tax Audit Investigation",
+  "slug": "tax-audit-investigation",
+  "category": "economics",
+  "subcategory": "taxes",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A tax audit document being inspected through a magnifying glass. A large green checkmark indicates a successful verification.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "close-up"
+  },
+  "semantic_role": ["Verification Process", "Risk Indicator"],
+  "tags": ["tax", "audit", "investigation", "magnifying glass", "scrutiny", "compliance"],
+  "dominant_colors": ["#003366", "#32CD32", "#FFFFFF"],
+  "use_cases": ["Audit preparation tips", "Risk management video"],
+  "animation_ideas": ["Magnifying glass moving over text", "Checkmark popping onto screen"],
+  "files": {
+    "image": "tax_audit_investigation.png",
+    "metadata": "tax_audit_investigation.json",
+    "prompt": "Flat vector illustration of a tax audit document with a magnifying glass, thick outlines."
+  }
+}

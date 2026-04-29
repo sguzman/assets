@@ -1,0 +1,29 @@
+{
+  "id": "econ-tax-002",
+  "title": "Tax Deadline Calendar",
+  "slug": "tax-deadline-calendar",
+  "category": "economics",
+  "subcategory": "taxes",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A calendar showing a tax deadline, accompanied by a calculator, a clock, and stacks of coins. A red exclamation mark highlights the importance.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "isometric"
+  },
+  "semantic_role": ["Temporal Indicator", "Call to Action"],
+  "tags": ["tax", "deadline", "calendar", "time", "finance", "calculator", "urgency"],
+  "dominant_colors": ["#003366", "#FF4500", "#FFFFFF", "#FFD700"],
+  "use_cases": ["Tax season reminder", "Financial planning guide"],
+  "animation_ideas": ["Calendar circling date", "Clock hands spinning", "Coins stacking up"],
+  "files": {
+    "image": "tax_deadline_calendar.png",
+    "metadata": "tax_deadline_calendar.json",
+    "prompt": "Flat vector illustration of a tax deadline calendar with a calculator and coins, thick outlines."
+  }
+}

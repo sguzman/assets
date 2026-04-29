@@ -1,0 +1,29 @@
+{
+  "id": "econ-tax-003",
+  "title": "Tax Refund Check",
+  "slug": "tax-refund-check",
+  "category": "economics",
+  "subcategory": "taxes",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A government tax refund check for $1,234.00, shown with a stack of dollar bills and a gold coin. A green arrow indicates the return of funds.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Positive Outcome", "Financial Reward"],
+  "tags": ["tax", "refund", "check", "cash", "money", "government"],
+  "dominant_colors": ["#003366", "#32CD32", "#FFFFFF", "#FFD700"],
+  "use_cases": ["Savings advice video", "Tax benefit explainer"],
+  "animation_ideas": ["Check glowing", "Coins appearing", "Arrow pulsing"],
+  "files": {
+    "image": "tax_refund_check.png",
+    "metadata": "tax_refund_check.json",
+    "prompt": "Flat vector illustration of a tax refund check with cash and coins, thick outlines."
+  }
+}

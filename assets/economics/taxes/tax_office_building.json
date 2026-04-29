@@ -1,0 +1,29 @@
+{
+  "id": "econ-tax-005",
+  "title": "Tax Office Building",
+  "slug": "tax-office-building",
+  "category": "economics",
+  "subcategory": "taxes",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A stately government building labeled 'TAX OFFICE' with classical columns, shown alongside a tax document and a shield symbol representing protection/compliance.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Institutional Symbol", "Authority"],
+  "tags": ["tax", "office", "government", "building", "regulation", "compliance"],
+  "dominant_colors": ["#003366", "#D3D3D3", "#FFFFFF", "#2E8B57"],
+  "use_cases": ["Official procedure walkthrough", "Regulatory overview"],
+  "animation_ideas": ["Building doors opening", "Document appearing in front", "Shield shining"],
+  "files": {
+    "image": "tax_office_building.png",
+    "metadata": "tax_office_building.json",
+    "prompt": "Flat vector illustration of a tax office building and a document, thick outlines."
+  }
+}

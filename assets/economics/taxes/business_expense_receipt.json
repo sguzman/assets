@@ -1,0 +1,29 @@
+{
+  "id": "econ-tax-004",
+  "title": "Business Expense Receipt",
+  "slug": "business-expense-receipt",
+  "category": "economics",
+  "subcategory": "taxes",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A long business receipt showing categorized expenses (travel, meals, etc.) next to a digital calculator and a percent symbol. A minus sign icon emphasizes deductions.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white with subtle drop shadow",
+    "perspective": "top-down"
+  },
+  "semantic_role": ["Evidence", "Calculation Process"],
+  "tags": ["tax", "expense", "receipt", "business", "accounting", "deductions"],
+  "dominant_colors": ["#003366", "#32CD32", "#FFFFFF", "#FFA500"],
+  "use_cases": ["Small business bookkeeping", "Tax deduction tutorial"],
+  "animation_ideas": ["Calculator screen blinking", "Receipt scrolling up", "Deduction symbol appearing"],
+  "files": {
+    "image": "business_expense_receipt.png",
+    "metadata": "business_expense_receipt.json",
+    "prompt": "Flat vector illustration of a business expense receipt and a calculator, thick outlines."
+  }
+}
