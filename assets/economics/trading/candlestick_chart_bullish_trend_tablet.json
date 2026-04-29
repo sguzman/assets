@@ -1,0 +1,29 @@
+{
+  "id": "econ-019",
+  "title": "Candlestick Chart Bullish Trend",
+  "slug": "candlestick-chart-bullish-trend-tablet",
+  "category": "economics",
+  "subcategory": "trading",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A digital tablet displaying a dark-themed candlestick chart with a prominent green upward-sloping arrow indicating a strong bullish trend.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "isometric-like"
+  },
+  "semantic_role": ["Market Analysis", "Bullish Momentum", "Technical Indicator"],
+  "tags": ["trading", "candlesticks", "bullish", "chart", "stock market", "crypto", "tablet"],
+  "dominant_colors": ["#003366", "#32CD32", "#FF0000", "#FFFFFF"],
+  "use_cases": ["Stock market news", "Technical analysis tutorial", "Trading app marketing"],
+  "animation_ideas": ["Candlesticks appearing one by one", "Green arrow growing and glowing", "Price line flickering"],
+  "files": {
+    "image": "candlestick_chart_bullish_trend_tablet.png",
+    "metadata": "candlestick_chart_bullish_trend_tablet.json",
+    "prompt": "Flat vector illustration of a candlestick chart on a tablet with a rising green arrow."
+  }
+}

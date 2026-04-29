@@ -1,0 +1,29 @@
+{
+  "id": "econ-023",
+  "title": "Global Stock Market Trend",
+  "slug": "global-stock-market-trend-globe",
+  "category": "economics",
+  "subcategory": "trading",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A blue and green globe with circular motion arrows, overlaid with a green candlestick chart representing global market growth and connectivity.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Global Markets", "International Finance", "Worldwide Growth"],
+  "tags": ["global market", "globe", "finance", "stocks", "growth", "connectivity"],
+  "dominant_colors": ["#003366", "#32CD32", "#FFFFFF"],
+  "use_cases": ["International investment summit", "Global economic trends video", "World bank report visualization"],
+  "animation_ideas": ["Globe rotating", "Candlestick chart expanding around the globe", "Arrows pulsing"],
+  "files": {
+    "image": "global_stock_market_trend_globe.png",
+    "metadata": "global_stock_market_trend_globe.json",
+    "prompt": "Flat vector illustration of a globe with a rising candlestick chart overlay."
+  }
+}

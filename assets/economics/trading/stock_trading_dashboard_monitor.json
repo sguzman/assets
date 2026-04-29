@@ -1,0 +1,29 @@
+{
+  "id": "econ-021",
+  "title": "Stock Trading Dashboard Monitor",
+  "slug": "stock-trading-dashboard-monitor",
+  "category": "economics",
+  "subcategory": "trading",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A comprehensive desktop monitor setup showing a high-tech trading dashboard with multiple panels, real-time charts, and buy/sell controls.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Professional Trading", "Market Monitoring", "Data Visualization"],
+  "tags": ["trading", "dashboard", "monitor", "charts", "data", "software", "stocks"],
+  "dominant_colors": ["#003366", "#32CD32", "#FF0000", "#FFFFFF"],
+  "use_cases": ["Fintech software demo", "Day trading workstation setup", "Investment platform advertisement"],
+  "animation_ideas": ["Charts updating in real-time", "Buy/Sell buttons pulsing", "Numbers scrolling"],
+  "files": {
+    "image": "stock_trading_dashboard_monitor.png",
+    "metadata": "stock_trading_dashboard_monitor.json",
+    "prompt": "Flat vector illustration of a computer monitor with a complex trading dashboard."
+  }
+}

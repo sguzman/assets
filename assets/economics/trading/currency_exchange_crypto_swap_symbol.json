@@ -1,0 +1,29 @@
+{
+  "id": "econ-022",
+  "title": "Currency Exchange and Crypto Swap",
+  "slug": "currency-exchange-crypto-swap-symbol",
+  "category": "economics",
+  "subcategory": "trading",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A central golden coin with a diamond geometric symbol, surrounded by circular green and red arrows representing liquidity, swap, or exchange processes.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Liquidity Pool", "DeFi Swap", "Currency Conversion"],
+  "tags": ["exchange", "swap", "crypto", "currency", "defi", "liquidity", "coin"],
+  "dominant_colors": ["#FFD700", "#32CD32", "#FF0000", "#003366", "#FFFFFF"],
+  "use_cases": ["Crypto wallet feature explainer", "DeFi platform tutorial", "Forex market overview"],
+  "animation_ideas": ["Arrows rotating continuously", "Coin spinning", "Diamond glowing"],
+  "files": {
+    "image": "currency_exchange_crypto_swap_symbol.png",
+    "metadata": "currency_exchange_crypto_swap_symbol.json",
+    "prompt": "Flat vector illustration of a coin with circular exchange arrows."
+  }
+}

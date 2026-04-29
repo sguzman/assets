@@ -1,0 +1,29 @@
+{
+  "id": "econ-020",
+  "title": "Bull vs Bear Market Rivalry",
+  "slug": "bull-vs-bear-market-rivalry",
+  "category": "economics",
+  "subcategory": "trading",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A symbolic representation of market sentiment featuring a charging green bull and a fierce red bear facing each other, with chart lines indicating upward and downward paths.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Market Sentiment", "Economic Rivalry", "Volatility"],
+  "tags": ["bull", "bear", "market", "trading", "rivalry", "sentiment", "stocks"],
+  "dominant_colors": ["#32CD32", "#FF0000", "#003366", "#FFFFFF"],
+  "use_cases": ["Market outlook report", "Investor psychology video", "Wall Street news headline"],
+  "animation_ideas": ["Bull and bear locking horns", "Background charts flickering between green and red", "Animals breathing smoke"],
+  "files": {
+    "image": "bull_vs_bear_market_rivalry.png",
+    "metadata": "bull_vs_bear_market_rivalry.json",
+    "prompt": "Flat vector illustration of a green bull and a red bear facing off, stock market concept."
+  }
+}

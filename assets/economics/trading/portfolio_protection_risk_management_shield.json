@@ -1,0 +1,29 @@
+{
+  "id": "econ-024",
+  "title": "Portfolio Protection and Risk Management",
+  "slug": "portfolio-protection-risk-management-shield",
+  "category": "economics",
+  "subcategory": "trading",
+  "type": "illustration",
+  "format": "png",
+  "status": "final",
+  "version": "1.0",
+  "description": "A blue shield with a white checkmark blocking a sharp red downward-crashing arrow in front of a market chart, symbolizing investment security.",
+  "visual_style": {
+    "medium": "flat vector",
+    "line_style": "thick, dark blue outlines",
+    "shading": "soft, minimal",
+    "background": "plain white",
+    "perspective": "frontal"
+  },
+  "semantic_role": ["Risk Management", "Investment Security", "Hedging"],
+  "tags": ["protection", "risk", "shield", "hedging", "security", "portfolio", "crash"],
+  "dominant_colors": ["#003366", "#32CD32", "#FF0000", "#FFFFFF"],
+  "use_cases": ["Insurance service ad", "Risk management strategy guide", "Market downturn survival tips"],
+  "animation_ideas": ["Red arrow hitting the shield and shattering", "Shield pulsing with light", "Checkmark appearing"],
+  "files": {
+    "image": "portfolio_protection_risk_management_shield.png",
+    "metadata": "portfolio_protection_risk_management_shield.json",
+    "prompt": "Flat vector illustration of a shield protecting a chart from a falling red arrow."
+  }
+}
